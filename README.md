@@ -1,3 +1,3 @@
 # mario
-Java Mario - AP Computer Science 
+Java Mario - AP Computer Science \n
 you wassup
